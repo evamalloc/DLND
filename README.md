@@ -87,7 +87,8 @@ activate drlnd
 
 Step 2: Open the project file
 
-- ```bash
+
+```bash
 jupyter notebook Continuous_Control.ipynb
 ```
 
